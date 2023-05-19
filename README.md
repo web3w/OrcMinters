@@ -1,4 +1,4 @@
-# A verified orc token list
+# A verified ORC20 token list
 
 The data is parsed according to the [ORC20 document](https://docs.orc20.org/operations). When writing an inscription on BTC, you can check here if it is necessary to write another copy.I will maintain this index on a daily basis until a useful tool appears.
 ## Deploy
