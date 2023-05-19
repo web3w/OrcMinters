@@ -23,7 +23,7 @@ ps：The data on the completion status of minting is currently being indexed. Pl
 
 ---
 
-ps: I recommend that you verify this date using  https://ordinals.com/  or https://bitpunks.io/Explorer/Inscriptions 
+ps: I recommend that you verify this data using  https://ordinals.com/  or https://bitpunks.io/Explorer/Inscriptions 
 
 
 
