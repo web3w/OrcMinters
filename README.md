@@ -4,7 +4,11 @@ The data is parsed according to the [ORC20 document](https://docs.orc20.org/oper
 ## Deploy
 1. Until 2023-5-19, the list of tokens released in compliance with standards [orc20_deploy](orc20_token_deploy.csv)
 
-You can view the inscription number by using the `https://ordinals.com/inscription/{tx_id}i0` or `https://www.blockchain.com/explorer/transactions/btc/{tx_id}`
+You can view the inscription number by using the 
+```
+https://ordinals.com/inscription/{tx_id}i0` 
+https://www.blockchain.com/explorer/transactions/btc/{tx_id}
+```
 
 eg. https://ordinals.com/inscription/97b870b043d9745e674e2eb7bafbd9fa3dcdbbd776c671dab820710747ce9059i0 
 https://www.blockchain.com/explorer/transactions/btc/97b870b043d9745e674e2eb7bafbd9fa3dcdbbd776c671dab820710747ce9059
