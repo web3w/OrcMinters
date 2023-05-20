@@ -16,9 +16,10 @@ https://www.blockchain.com/explorer/transactions/btc/97b870b043d9745e674e2eb7baf
 ps：The data on the completion status of minting is currently being indexed. Please stay tuned.
 
 ## Mint
-1. [ORC Minters](orc20_orc_minters.csv)
+  ### 1. [ORC Minters](orc20_orc_minters.csv)
 
 ## Send
+  ### 1. [ORC_Send](orc20_orc_send.csv)
   ###  Indexing... Please stay tuned.
 
 ---
